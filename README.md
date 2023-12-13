@@ -4,27 +4,20 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
-    body {
-      font-family: 'Arial', sans-serif;
-    }
-
-    .container {
+    .contaner{
       display: flex;
       align-items: center;
       max-width: 800px; /* Adjust the maximum width as needed */
       margin: 0 auto;
-    }
-
-    .text {
+      }
+    .text{
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
     }
-
-    .image {
-      margin-left: 20px; /* Adjust the margin as needed */
-    }
   </style>
+
+  
 </head>
 <body>
   <div class="container">
