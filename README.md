@@ -18,9 +18,8 @@ But hold on to your keyboards, for in recent years, I've taken a detour into the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Soft Skills]
 <!-- BLOG-POST-LIST:END -->
 
 # Recently Improved Techs
-- BunJS(https://bun.sh)
+- [BunJS](https://bun.sh)
 - [Segment Anything(AI)](https://segment-anything.com)
