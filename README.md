@@ -16,3 +16,11 @@ But hold on to your keyboards, for in recent years, I've taken a detour into the
 
 <a href="http://www.github.com/kattlover99"><img src="https://github-readme-stats.vercel.app/api?username=kattlover99&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&theme=prussian&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Kattlover's GitHub stats" /></a>
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [Soft Skills]
+<!-- BLOG-POST-LIST:END -->
+
+# Recently Improved Techs
+- BunJS
+- [Segment Anything](https://segment-anything.com)
