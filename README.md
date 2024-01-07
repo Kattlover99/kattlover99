@@ -27,4 +27,5 @@ But hold on to your keyboards, for in recent years, I've taken a detour into the
 - [Segment Anything(AI)](https://segment-anything.com)
 
 # Recently Read Acticles
+- [A Golang based simple, easy-to-use, elegant open-source Home Cloud system](https://golang.ch/a-golang-based-simple-easy-to-use-elegant-open-source-home-cloud-system/?ref=dailydev)
 - [Leveraging React Render Props for Flexible Component Composition](https://www.dhiwise.com/post/leveraging-react-render-props-for-flexible-component-composition)
